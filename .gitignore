@@ -1,0 +1,14 @@
+# Mengabaikan folder bin dan obj
+/bin/
+/obj/
+
+# Mengabaikan file sementara dari editor
+.vs/
+.idea/
+*.suo
+*.user
+
+# Mengabaikan file biner seperti DLL dan EXE
+*.dll
+*.exe
+*.pdb
